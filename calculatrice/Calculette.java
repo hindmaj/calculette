@@ -4,7 +4,7 @@ import java.util.HashMap;
 import calculatrice.Addition;
 import calculatrice.Operation;
 import calculatrice.Soustraction;
-
+//marie
 public class Calculette {
  public int resultat;
  private int rightoperand;
